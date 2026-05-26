@@ -1,6 +1,10 @@
 # wmt_mathgv_matplotlib_study
 [WIP] My MathGV and Matplotlib study, just for fun  
 
+## Other softwares
+* https://www.desmos.com/calculator?lang=zh-CN
+* https://www.bilibili.com/video/BV1b6RjBaECk/
+
 ## Astroid, Tetracuspid
 * https://en.wikipedia.org/wiki/Astroid
 * https://github.com/weimingtom/wmt_mathgv_matplotlib_study/blob/master/astroid.ipynb
