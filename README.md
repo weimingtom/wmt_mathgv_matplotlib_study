@@ -32,3 +32,16 @@
 r=1-sin(theta)
 r=1-cos(theta)
 ```
+
+## Rose, Rhodonea Curve
+* https://en.wikipedia.org/wiki/Rose_(mathematics)
+```
+四叶玫瑰线
+四叶玫瑰线是数学中的一种曲线，因形似花瓣而得名
+四叶玫瑰线可通过两个圆周运动叠加生成，利用齿轮装置可精确绘制该曲线。
+工程中曾研究其蚌线特性，并应用于椭圆形零件切削加工方案的近似设计
+```
+* desmos
+```
+r=5*sin(2*theta) ​​​
+```
