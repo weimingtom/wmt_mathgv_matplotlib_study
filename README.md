@@ -13,6 +13,11 @@
 星形线（astroid）或称为四尖瓣线（tetracuspid），
 是一个有四个尖点的内摆线，也属于超椭圆的一种。 ​​​
 ```
+* desmos
+```
+(4*cos(t)^3,4*sin(t)^3)
+0<=t<=2pi
+```
 
 ## Cardioid
 * https://en.wikipedia.org/wiki/Cardioid
