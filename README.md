@@ -13,10 +13,11 @@
 星形线（astroid）或称为四尖瓣线（tetracuspid），
 是一个有四个尖点的内摆线，也属于超椭圆的一种。 ​​​
 ```
-* desmos
+* desmos: (4*cos(t)^3,4*sin(t)^3), 0<=t<=2pi
 ```
-(4*cos(t)^3,4*sin(t)^3)
-0<=t<=2pi
+(4*\cos(t)^{3},4*\sin(t)^{3})
+0
+2\pi
 ```
 
 ## Cardioid
@@ -27,10 +28,13 @@
 是一个圆上的固定一点在它绕着与其相切且半径相同的另外
 一个圆周滚动时所形成的轨迹，因其形状像心形而得名
 ```
-* desmos
+* desmos: r=1-sin(theta)
 ```
-r=1-sin(theta)
-r=1-cos(theta)
+r=1-\sin\left(\theta\right)
+```
+* desmos: r=1-cos(theta)
+```
+r=1-\cos\left(\theta\right)
 ```
 
 ## Rose, Rhodonea Curve
@@ -45,7 +49,7 @@ r=1-cos(theta)
 用matplotlib和Jupyter画四叶玫瑰线，效果如图。值得一提的是matplotlib画极坐标会忽略掉负数，
 所以画出来是只有两叶玫瑰线，可以加上绝对值来变成正确的四叶（可能还有其他方法，但暂时这样实现）
 ```
-* desmos
+* desmos: r=5*sin(2*theta) ​​
 ```
-r=5*sin(2*theta) ​​​
+​r=5*\sin\left(2*\theta\right)
 ```
