@@ -4,9 +4,9 @@
 ## Other softwares
 * https://www.desmos.com/calculator?lang=zh-CN
 * https://www.bilibili.com/video/BV1b6RjBaECk/
-* HP Prime Virtual Calculator  
-https://updates.moravia-consulting.com  
-https://hpcalcs.com/download/  
+* HP Prime Virtual Calculator, HP_Prime_Virtual_Calculator_x64_2025_09_15.exe   
+https://updates.moravia-consulting.com    
+https://hpcalcs.com/download/    
 
 ## Astroid, Tetracuspid
 * https://en.wikipedia.org/wiki/Astroid
