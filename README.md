@@ -64,5 +64,5 @@ https://www.desmos.com/calculator/ohlxw71rgx
 ## Claude Haiku 4.5 generated code  
 * https://github.com/weimingtom/wmt_mathgv_matplotlib_study/blob/master/mathematical_curves_collection.ipynb
 
-## GPT-5 mini generated code
+## GPT-5 mini generated code (not good, need to be modified by Claude Haiku 4.5)
 * https://github.com/weimingtom/wmt_mathgv_matplotlib_study/blob/master/all_math_curves.ipynb
