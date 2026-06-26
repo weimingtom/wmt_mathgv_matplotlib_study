@@ -66,3 +66,6 @@ https://www.desmos.com/calculator/ohlxw71rgx
 
 ## GPT-5 mini generated code (not good, need to be modified by Claude Haiku 4.5)
 * https://github.com/weimingtom/wmt_mathgv_matplotlib_study/blob/master/all_math_curves.ipynb
+
+## GPT-5.5 generated code
+* https://github.com/weimingtom/wmt_mathgv_matplotlib_study/blob/master/all_math_curves_gpt_5_5.ipynb
