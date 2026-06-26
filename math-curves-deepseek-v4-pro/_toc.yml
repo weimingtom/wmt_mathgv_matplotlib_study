@@ -1,0 +1,27 @@
+format: jb-book
+root: 00_intro
+chapters:
+  - file: 01_conic_sections
+    title: "圆锥曲线 Conic Sections"
+  - file: 02_cardioid_limacon
+    title: "心形线与蚶线 Cardioid & Limaçon"
+  - file: 03_rose_curves
+    title: "玫瑰线 Rose Curves"
+  - file: 04_cycloid_family
+    title: "摆线族 Cycloid Family"
+  - file: 05_spirals
+    title: "螺旋线大全 Spirals"
+  - file: 06_lissajous
+    title: "李萨如曲线 Lissajous Curves"
+  - file: 07_algebraic_curves
+    title: "代数曲线 Algebraic Curves"
+  - file: 08_catenary_pursuit
+    title: "悬链线与追踪曲线 Catenary & Pursuit"
+  - file: 09_special_curves
+    title: "蝴蝶与特殊曲线 Special Curves"
+  - file: 10_function_curves
+    title: "经典函数曲线 Function Curves"
+  - file: 11_ovals
+    title: "卵形线 Ovals"
+  - file: 12_parametric_misc
+    title: "其他参数曲线 Parametric Miscellany"
