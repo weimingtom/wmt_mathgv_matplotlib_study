@@ -1,12 +1,19 @@
 # wmt_mathgv_matplotlib_study
 [WIP] My MathGV and Matplotlib study, just for fun  
 
-## Other softwares
+## Softwares  
+* http://www.mathgv.com
+* https://matplotlib.org  
+https://matplotlib.org/stable/gallery/index  
 * https://www.desmos.com/calculator?lang=zh-CN
 * https://www.bilibili.com/video/BV1b6RjBaECk/
 * HP Prime Virtual Calculator, HP_Prime_Virtual_Calculator_x64_2025_09_15.exe   
 https://updates.moravia-consulting.com    
 https://hpcalcs.com/download/    
+* HP Prime Graphics Utilities  
+https://www.hpcalc.org/prime/graphics/  
+* HP Prime Math Applications  
+https://www.hpcalc.org/prime/math/  
 
 ## Astroid, Tetracuspid
 * https://en.wikipedia.org/wiki/Astroid
