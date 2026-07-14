@@ -76,3 +76,17 @@ https://www.desmos.com/calculator/ohlxw71rgx
 
 ## GPT-5.5 generated code
 * https://github.com/weimingtom/wmt_mathgv_matplotlib_study/blob/master/all_math_curves_gpt_5_5.ipynb
+
+## Deepseek-v4-pro generated code
+* https://github.com/weimingtom/wmt_mathgv_matplotlib_study/blob/master/math-curves-deepseek-v4-pro/01_conic_sections.ipynb
+* https://github.com/weimingtom/wmt_mathgv_matplotlib_study/blob/master/math-curves-deepseek-v4-pro/02_cardioid_limacon.ipynb
+* https://github.com/weimingtom/wmt_mathgv_matplotlib_study/blob/master/math-curves-deepseek-v4-pro/03_rose_curves.ipynb
+* https://github.com/weimingtom/wmt_mathgv_matplotlib_study/blob/master/math-curves-deepseek-v4-pro/04_cycloid_family.ipynb
+* https://github.com/weimingtom/wmt_mathgv_matplotlib_study/blob/master/math-curves-deepseek-v4-pro/05_spirals.ipynb
+* https://github.com/weimingtom/wmt_mathgv_matplotlib_study/blob/master/math-curves-deepseek-v4-pro/06_lissajous.ipynb
+* https://github.com/weimingtom/wmt_mathgv_matplotlib_study/blob/master/math-curves-deepseek-v4-pro/07_algebraic_curves.ipynb
+* https://github.com/weimingtom/wmt_mathgv_matplotlib_study/blob/master/math-curves-deepseek-v4-pro/08_catenary_pursuit.ipynb
+* https://github.com/weimingtom/wmt_mathgv_matplotlib_study/blob/master/math-curves-deepseek-v4-pro/09_special_curves.ipynb
+* https://github.com/weimingtom/wmt_mathgv_matplotlib_study/blob/master/math-curves-deepseek-v4-pro/10_function_curves.ipynb
+* https://github.com/weimingtom/wmt_mathgv_matplotlib_study/blob/master/math-curves-deepseek-v4-pro/11_ovals.ipynb
+* https://github.com/weimingtom/wmt_mathgv_matplotlib_study/blob/master/math-curves-deepseek-v4-pro/12_parametric_misc.ipynb
