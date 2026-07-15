@@ -152,3 +152,15 @@ https://www.desmos.com/calculator/ohlxw71rgx
 * 尼哥米德蚌线B, R=1/sin(Theta)+1, 0<=Theta<=20pi
 * 尼哥米德蚌线C, R=1/sin(Theta)+3, 0<=Theta<=20pi
 * 麦克劳林三等分角曲线C, R=1/cos(Theta/3), 0<=Theta<=20pi
+
+* 狄诺斯特拉图割圆曲线, X=2*1*T/pi, Y=2*1*T*cot(T)/pi, 0<=T<=20pi
+* 蜗牛线, R=5*sin(Theta)/Theta, 0<=Theta<=6pi
+* 琴豪生割圆曲线, R=3*sin(pi*X/(2*1)), 0<=Theta<=20pi
+* 狄奥克勒斯蔓叶线, Y=f(x)=sqrt(  x^3/(3-x)  ); Y=f(x)=-sqrt(  x^3/(3-x)  )
+* 史留斯蚌线（长幅蔓叶线）, R=1/cos(Theta)-2*3*cos(Theta), 0<=Theta<=20pi
+* 史留斯蚌线（短幅蔓叶线）, R=1/cos(Theta)-2*0.4*cos(Theta), 0<=Theta<=20pi
+* 双曲螺线, R=5/Theta, 0<=Theta<=2pi
+* 十字线, R=1/sin(2*Theta), 0<=Theta<=2pi
+* 柯特斯螺线, R=1/sin( 4*Theta), 0<=Theta<=6pi
+* 更广泛的十字线, Y=f(x)=sqrt(4^2*x^2/(x^2-3^2)); Y=f(x)=-sqrt(4^2*x^2/(x^2-3^2))
+* 炭锭（弹鼻）线, Y=f(x)=sqrt(4^2*x^2/(3^2-x^2)); Y=f(x)=-sqrt(4^2*x^2/(3^2-x^2))
