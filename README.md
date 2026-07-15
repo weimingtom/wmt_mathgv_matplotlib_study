@@ -112,5 +112,15 @@ https://www.desmos.com/calculator/ohlxw71rgx
 * 斜环索线（布尔密斯特曲线）, R=1/cos(Theta)+1*tan(Theta)-2, 0<=theta<=2pi
 * 滑绳线, Y=f(x)=sqrt(x^2*(1-x)^2/(2^2-x^2) ); Y=f(x)=-sqrt(x^2*(1-x)^2/(2^2-x^2) )
 * 曳物线, X=5 *(ln(tan(T/2))+cos(T) ), Y=5 *sin(T), 0<=T<=2pi
+* 三次抛物线, Y=f(x)=1*x^4-3*x^3-6*x^2+1*x+1
+* 回旋曲线, X=T - 3^2*T^5/40, Y=3*T^3/6, 0<=T<=2pi
+* 最速降线, X=1*(T-sin(T)), Y=1*(1-cos(T)), 0<=T<=2pi
+* 短幅摆线, X=2*T-1*sin(T), Y=2   -1*cos(T), 0<=T<=2pi
+* 内摆线, X=5*(  (1-0.8)*cos(0.8*T)+ 0.8*cos((1-0.8)*T)  ), Y=5*(  (1-0.8)*sin(0.8*T)  - 0.8*sin((1-0.8)*T)  ), 0<=T<=20pi
+* 外摆线, X=1*(  (1+1)*cos(1*T)- 1*cos((1+1)*T)  )    , Y=1*(  (1+1)*sin(0.8*T)  - 1*sin((1+1)*T)  ), 0<=T<=2pi
+* 星型线, X=4*cos(T)^3, Y=4*sin(T)^3, 0<=T<=2pi
+* 心脏线，R=2*1*(1-cos(Theta)), 0<=Theta<=2pi
+* 第一蜗线, R=2*1*cos(Theta)+1, 0<=Theta<=2pi
+* 第三蜗线, R=2*1*cos(Theta)+2.3, 0<=Theta<=2pi
 
 
