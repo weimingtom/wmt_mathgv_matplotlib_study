@@ -91,7 +91,7 @@ https://www.desmos.com/calculator/ohlxw71rgx
 * https://github.com/weimingtom/wmt_mathgv_matplotlib_study/blob/master/math-curves-deepseek-v4-pro/11_ovals.ipynb
 * https://github.com/weimingtom/wmt_mathgv_matplotlib_study/blob/master/math-curves-deepseek-v4-pro/12_parametric_misc.ipynb
 
-## Old mathgv 3.1 record, 2004/1/4-2004/1/14
+## Old mathgv 3.1 record, 2004/1/4-2004/1/14, from a book, but I forget the book name  
 * 蝴蝶线, Y=f(x)=sqrt(8x)+4*sqrt(1-x/8)
 * 对数螺线, R=e^(0.1*theta), 0<=theta<=20pi
 * 三叶玫瑰线, R=5*sin(3*Theta), 0<=theta<=2pi
@@ -102,5 +102,15 @@ https://www.desmos.com/calculator/ohlxw71rgx
 * 卡帕曲线, R=5*cot(Theta), 0<=theta<=2pi
 * 悬链线, Y=f(x)=3/2*(e^(x/3)+e^(-x/3))
 * 翼琴线, Y=f(x)=sqrt(       (x - 0.05)^2    *   (2^2-x^2)   /   (x+2)^2      ); Y=f(x)=-sqrt(       (x - 0.05)^2    *   (2^2-x^2)   /   (x+2)^2      )
+* 欧道克斯枕头线, Y=f(x)=sqrt( x^4/1^2-x^2   ); Y=f(x)=-sqrt( x^4/1^2-x^2   )
+* 童衫线, Y=f(x)=sqrt(1*(x+1)^2/x); Y=f(x)=-sqrt(1*(x+1)^2/x)
+* 8字线, Y=f(x)=sqrt (x^2-x^4/(4*2^2) ); Y=f(x)=- sqrt (x^2-x^4/(4*2^2) )
+* 荷包线, Y=f(x)= -sqrt( 4*(2^2+2^2)*x^2/( 4*( 2*x+2^2) - 1) ); Y=f(x)=sqrt( 4*(2^2+2^2)*x^2/( 4*( 2*x+2^2) - 1) )
+* 沙钟线, Y=f(x)=sqrt(  (4*2^4*x^2+10^2*2^2)/(10^2-4*2^2)  ); Y=f(x)=-sqrt(  (4*2^4*x^2+10^2*2^2)/(10^2-4*2^2)  )
+* 史留斯珍珠线, Y=f(x)=  (7*x^3-x^4)^(1/4); Y=f(x)=  -    (7*x^3-x^4)^(1/4)
+* 隆桑珍珠线, Y=f(x)=  (x^4-2*3*x^3)^(1/4); Y=f(x)= - (x^4-2*3*x^3)^(1/4)
+* 斜环索线（布尔密斯特曲线）, R=1/cos(Theta)+1*tan(Theta)-2, 0<=theta<=2pi
+* 滑绳线, Y=f(x)=sqrt(x^2*(1-x)^2/(2^2-x^2) ); Y=f(x)=-sqrt(x^2*(1-x)^2/(2^2-x^2) )
+* 曳物线, X=5 *(ln(tan(T/2))+cos(T) ), Y=5 *sin(T), 0<=T<=2pi
 
 
