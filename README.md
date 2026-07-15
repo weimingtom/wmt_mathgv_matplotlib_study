@@ -90,3 +90,17 @@ https://www.desmos.com/calculator/ohlxw71rgx
 * https://github.com/weimingtom/wmt_mathgv_matplotlib_study/blob/master/math-curves-deepseek-v4-pro/10_function_curves.ipynb
 * https://github.com/weimingtom/wmt_mathgv_matplotlib_study/blob/master/math-curves-deepseek-v4-pro/11_ovals.ipynb
 * https://github.com/weimingtom/wmt_mathgv_matplotlib_study/blob/master/math-curves-deepseek-v4-pro/12_parametric_misc.ipynb
+
+## Old mathgv 3.1 record, 2004/1/4-2004/1/14
+* 蝴蝶线, Y=f(x)=sqrt(8x)+4*sqrt(1-x/8)
+* 对数螺线, R=e^(0.1*theta), 0<=theta<=20pi
+* 三叶玫瑰线, R=5*sin(3*Theta), 0<=theta<=2pi
+* 六叶玫瑰线, R=5*sin(4*Theta), 0<=theta<=2pi
+* 四叶玫瑰线, R=5*sin(2*Theta), 0<=theta<=2pi
+* 环索线, R=4*(1-sin(Theta))/cos(Theta), 0<=theta<=2pi; R=4*(1+sin(Theta))/cos(Theta), 0<=theta<=2pi
+* 贝努利双纽线, R=sqrt(2*4^2*cos(2*Theta)), 0<=theta<=2pi
+* 卡帕曲线, R=5*cot(Theta), 0<=theta<=2pi
+* 悬链线, Y=f(x)=3/2*(e^(x/3)+e^(-x/3))
+* 翼琴线, Y=f(x)=sqrt(       (x - 0.05)^2    *   (2^2-x^2)   /   (x+2)^2      ); Y=f(x)=-sqrt(       (x - 0.05)^2    *   (2^2-x^2)   /   (x+2)^2      )
+
+
