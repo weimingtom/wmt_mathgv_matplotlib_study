@@ -132,4 +132,13 @@ https://www.desmos.com/calculator/ohlxw71rgx
 * 笛卡儿叶形线, X=3*2*T/(1+T^3), Y=3*2*T^2/(1+T^3), 0<=Theta<=20pi
 * 长幅摆线, X=1*T-2*sin(T) , Y=1   -2*cos(T), 0<=Theta<=20pi
 * 短幅外摆线, X=1*(  (1+1)*cos(1*T)- 0.5*cos((1+1)*T)  )    , Y=1*(  (1+1)*sin(0.8*T)  - 0.5*sin((1+1)*T)  ), 0<=Theta<=10pi
-
+* 长幅外摆线, X=1*(  (1+1)*cos(1*T)- 3*cos((1+1)*T)  )    , Y=1*(  (1+1)*sin(0.8*T)  - 3*sin((1+1)*T)  ), 0<=T<=10pi
+* 圆的渐近（伸）线, X=1*(cos(T)+T*sin(T)), Y=1*(sin(T)-(T)cos(T)), 0<=T<=4pi
+* 阿基米德螺线, R=1*Theta+1, 0<=Theta<=6pi
+* 伸展渐开线, X=(2-1)*cos(T)+2*T*sin(T), Y=(2-1)*sin(T)-2*T*cos(T), 0<=T<=2pi
+* 伽里略螺线, R=1 *Theta^2+2*Theta-2, 0<=Theta<=20pi
+* 费马螺线, R=1*sqrt(Theta), 0<=Theta<=4pi; R=-1*sqrt(Theta), 0<=Theta<=4pi
+* 连锁螺线, R=2/( sqrt(Theta)), 0<=Theta<=2pi; R=-2/( sqrt(Theta)), 0<=Theta<=4pi
+* 抛物螺线, R=1+1*sqrt(Theta), 0<=Theta<=6pi; R=-(1+1*sqrt(Theta)), 0<=Theta<=6pi
+* 牛顿蛇形线, Y=f(x)=1*3*x/(x^2+1^2)
+* 库尔勃蚌线, Y=f(x)=sqrt(1^2*(1^2-x^2)/x^2); Y=f(x)=-sqrt(1^2*(1^2-x^2)/x^2)
