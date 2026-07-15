@@ -142,3 +142,13 @@ https://www.desmos.com/calculator/ohlxw71rgx
 * 抛物螺线, R=1+1*sqrt(Theta), 0<=Theta<=6pi; R=-(1+1*sqrt(Theta)), 0<=Theta<=6pi
 * 牛顿蛇形线, Y=f(x)=1*3*x/(x^2+1^2)
 * 库尔勃蚌线, Y=f(x)=sqrt(1^2*(1^2-x^2)/x^2); Y=f(x)=-sqrt(1^2*(1^2-x^2)/x^2)
+* 肾脏线, R=1*(1+2*sin(Theta/2)), 0<=Theta<=30pi
+* 梨线, Y=f(x)=sqrt  ((2*3^3*x-3^4)/x^2); Y=f(x)=-sqrt  ((2*3^3*x-3^4)/x^2)
+* 四次蔓叶线, Y=f(x)=(x^2+2*1*x+1^2/sqrt(1^2-x^2)); Y=f(x)=-(x^2+2*1*x+1^2/sqrt(1^2-x^2))
+* 箕舌线, Y=f(x)=2^3/(x^2+2^2)
+* 孟格尔卵形线, R=2*4*cos(Theta)^3, 0<=Theta<=2pi
+* 假开普勒卵形线, Y=f(x)=sqrt(sqrt(2*3*x^3)-x^2); Y=f(x)=-sqrt(sqrt(2*3*x^3)-x^2)
+* 尼哥米德蚌线A, R=1/sin(Theta)+0.5, 0<=Theta<=20pi
+* 尼哥米德蚌线B, R=1/sin(Theta)+1, 0<=Theta<=20pi
+* 尼哥米德蚌线C, R=1/sin(Theta)+3, 0<=Theta<=20pi
+* 麦克劳林三等分角曲线C, R=1/cos(Theta/3), 0<=Theta<=20pi
