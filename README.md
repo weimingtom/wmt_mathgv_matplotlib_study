@@ -164,3 +164,8 @@ https://www.desmos.com/calculator/ohlxw71rgx
 * 柯特斯螺线, R=1/sin( 4*Theta), 0<=Theta<=6pi
 * 更广泛的十字线, Y=f(x)=sqrt(4^2*x^2/(x^2-3^2)); Y=f(x)=-sqrt(4^2*x^2/(x^2-3^2))
 * 炭锭（弹鼻）线, Y=f(x)=sqrt(4^2*x^2/(3^2-x^2)); Y=f(x)=-sqrt(4^2*x^2/(3^2-x^2))
+
+## Cursor Composer 2.5 Fast generated code
+* https://github.com/weimingtom/wmt_mathgv_matplotlib_study/blob/master/mathematical_curves_cursor_composer_2.5_fast.ipynb  
+
+
